@@ -46,9 +46,8 @@ I have published more than 20 peer-reviewed papers with total <a href='https://s
 - [Climate Change and Anthropogenic Impacts on Wetland and Agriculture in the Songnen and Sanjiang Plain, Northeast China](https://doi.org/10.3390/rs10030356), **Hao Chen**, Wanchang Zhang, Huiran Gao, Ning Nie, **Remote Sensing**
 - [Remote detection of human-induced evapotranspiration in a regional system experiencing increased anthropogenic demands and extreme climatic variability](https://doi.org/10.1080/01431161.2018.1523590), **Hao Chen**, Wanchang Zhang, Masoud Jafari Shalamzari, **International Journal of Remote Sensing**
 - [Evaluating data-driven and hybrid modeling of terrestrial actual evapotranspiration based on an automatic machine learning approach](https://doi.org/10.1016/j.jhydrol.2023.130594), Ning Guo#, **Hao Chen#**, Qiong Han, Tiejun Wang, **Journal of Hydrology**
-- [Impacts of seasonally frozen soil hydrothermal dynamics on the watershed hydrological processes inferred from a spatially distributed numerical modelling approach](https://doi.org/10.1016/j.jhydrol.2023.129947), **Hao Chen**, Tiejun Wang, Yonggen Zhang, Yun Bai, Xi Chen, **Journal of Hydrology**
-- [Discrimination and mapping ground surface freeze and thaw states over Northeastern China based on the improved dual-index algorithm](https://doi.org/10.1016/j.coldregions.2023.103963), **Hao Chen**, Tiejun Wang, Yonggen Zhang, Yun Bai, Xi Chen, **Cold Regions Science and Technology**
-
+- [Impacts of seasonally frozen soil hydrothermal dynamics on the watershed hydrological processes inferred from a spatially distributed numerical modelling approach](https://doi.org/10.1016/j.jhydrol.2023.129947), Huiran Gao, Zhijie Zhang*, **Hao Chen***, Wanchang Zhang, Chong Xu, Yaning Yi, Jinping Liu, Zikang Xiao, **Journal of Hydrology**
+- [Discrimination and mapping ground surface freeze and thaw states over Northeastern China based on the improved dual-index algorithm](https://doi.org/10.1016/j.coldregions.2023.103963), Huiran Gao, Zhijie Zhang, **Hao Chen***, Wanchang Zhang,Yaning Yi, Chong Xu, Xiwei Xu, **Cold Regions Science and Technology**
 
 
 <!-- # 🎖 Honors and Awards
@@ -56,7 +55,7 @@ I have published more than 20 peer-reviewed papers with total <a href='https://s
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Employments
-- *2024.01 - now*, Lecture, School of Geographic and Environmental Sciences, Tianjin Normal University. 
+- *2024.01 - now*, assistant professor, School of Geographic and Environmental Sciences, Tianjin Normal University. 
 - *2022.12 - 2023.12*, visiting scientist, Institute of Bio- and Geosciences, Agrosphere (IBG-3), Forschungszentrum Jülich. 
 - *2020.07 - 2024.01*, postDoc, School of Earth System Science, Tianjin University. 
 
