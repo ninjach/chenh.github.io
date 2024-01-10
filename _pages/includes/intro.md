@@ -1,4 +1,4 @@
-I work at [School of Geographic and Environmental Sciences, Tianjin Normal University](https://csyhj.tjnu.edu.cn/) <img src='./images/logo.png' style='width: 6em;'> as an assistant professor. 
+I work at [School of Geographic and Environmental Sciences, Tianjin Normal University](https://csyhj.tjnu.edu.cn/) as an assistant professor. 
 
 I am now working on Hybrid Modeling of Surface-Earth System. If you are seeking any form of **academic cooperation**, please feel free to email me at [ninjalago@yeah.net](mailto:ninjalago@yeah.net).
 
