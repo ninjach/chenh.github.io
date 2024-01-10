@@ -19,12 +19,12 @@ redirect_from:
 
 My research fields include GIScience, remote sensing, and environmental modeling. More specifically, I am interested in applying various geospatial techniques to study Earth and Planetary Sciences, especially wetland dynamics and hydrology modeling.
 
-I have published more than 20 peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=rrBhTpMAAAAJ'>google scholar citations <strong><span id='total_cit'>450+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=rrBhTpMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 20 peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=rrBhTpMAAAAJ'>google scholar citations <a href='https://scholar.google.com/citations?user=rrBhTpMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Joining the Faculty of Tianjin Normal University. 
-- *2024.01*: &nbsp;🎉🎉 Post-doctors stand out. 
+- *2024.01*: &nbsp;🎉🎉 Joining the faculty of Tianjin Normal University. 
+- *2024.01*: &nbsp;🎉🎉 Finishing my postdoctal project.
 
 # 📝 Publications 
 
