@@ -1,3 +1,7 @@
+# 📖 Employments
+- *2024.01 - now*, Assistant Professor, School of Geographic and Environmental Sciences, Tianjin Normal University. 
+- *2022.12 - 2023.12*, Visiting Scientist, Institute of Bio- and Geosciences, Agrosphere (IBG-3), Forschungszentrum Jülich. 
+- *2020.07 - 2024.01*, PostDoc, School of Earth System Science, Tianjin University. 
 
 # 📖 Educations
 - *2014.09 - 2020.07*, Ph.D, Aerospace Information research Institute, Chinese Academy of Sciences.
