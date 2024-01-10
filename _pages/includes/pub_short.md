@@ -1,8 +1,6 @@
 
 # 💻 Selected Research Papers
 
-My full paper list is shown at [my personal homepage](https://rayeren.github.io).
-
 #### 🎙 Geosciences
 
 - [Dynamically weighted ensemble of geoscientific models via automated machine-learning-based classification](https://doi.org/10.5194/gmd-16-5685-2023), **Hao Chen**, Tiejun Wang, Yonggen Zhang, Yun Bai, Xi Chen, **Geoscientific Model Development**
