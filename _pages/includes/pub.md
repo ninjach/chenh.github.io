@@ -5,7 +5,7 @@
 
 #### 🎙 Machine learning
 - [Dynamically weighted ensemble of geoscientific models via automated machine-learning-based classification](https://doi.org/10.5194/gmd-16-5685-2023), **Hao Chen**, Tiejun Wang, Yonggen Zhang, Yun Bai, Xi Chen, **Geoscientific Model Development**
-- [Evaluating data-driven and hybrid modeling of terrestrial actual evapotranspiration based on an automatic machine learning approach](https://doi.org/10.1016/j.jhydrol.2023.130594), Ning Guo#, **Hao Chen#**, Qiong Han, Tiejun Wang, **Journal of Hydrology**
+- [Evaluating data-driven and hybrid modeling of terrestrial actual evapotranspiration based on an automatic machine learning approach](https://doi.org/10.1016/j.jhydrol.2023.130594), Ning Guo(#), **Hao Chen(#)**, Qiong Han, Tiejun Wang, **Journal of Hydrology**
 
 #### 🎙 Ecohydrology
 - [Long-term groundwater storage variations estimated in the Songhua River Basin by using GRACE products, land surface models, and in-situ observations](https://doi.org/10.1016/j.scitotenv.2018.08.352), **Hao Chen**, Wanchang Zhang, Ning Nie, Yuedong Guo, **Science of The Total Environment**
@@ -24,7 +24,7 @@
 - [A new method for surface water extraction using multi-temporal Landsat 8 images based on maximum entropy model](https://doi.org/10.1080/22797254.2022.2062054), Wangping Li, Wanchang Zhang, Zhihong Li, Yu Wang, **Hao Chen**, Huiran Gao, Zhaoye Zhou, Junming Hao, Chuanhua Li, Xiaodong Wu, **European Journal of Remote Sensing**
 
 #### 🎙 Permafrost
-- [Impacts of seasonally frozen soil hydrothermal dynamics on the watershed hydrological processes inferred from a spatially distributed numerical modelling approach](https://doi.org/10.1016/j.jhydrol.2023.129947), Huiran Gao, Zhijie Zhang#*, **Hao Chen#**, Wanchang Zhang, Chong Xu, Yaning Yi, Jinping Liu, Zikang Xiao, **Journal of Hydrology**
+- [Impacts of seasonally frozen soil hydrothermal dynamics on the watershed hydrological processes inferred from a spatially distributed numerical modelling approach](https://doi.org/10.1016/j.jhydrol.2023.129947), Huiran Gao, Zhijie Zhang(*), **Hao Chen(*)**, Wanchang Zhang, Chong Xu, Yaning Yi, Jinping Liu, Zikang Xiao, **Journal of Hydrology**
 - [Discrimination and mapping ground surface freeze and thaw states over Northeastern China based on the improved dual-index algorithm](https://doi.org/10.1016/j.coldregions.2023.103963), Huiran Gao, Zhijie Zhang, **Hao Chen***, Wanchang Zhang,Yaning Yi, Chong Xu, Xiwei Xu, **Cold Regions Science and Technology**
 - [Spatial Downscaling Based on Spectrum Analysis for Soil Freeze/Thaw Status Retrieved From Passive Microwave](https://doi.org/10.1109/TGRS.2021.3051683), Huiran Gao, Zhijie Zhang, Wanchang Zhang, **Hao Chen**, Mingjie Xu, **IEEE Transactions on Geoscience and Remote Sensing**
 - [Monitoring the spatial distribution and changes in permafrost with passive microwave remote sensing](https://doi.org/10.1016/j.isprsjprs.2020.10.011), Huiran Gao, Ning Nie, Wanchang Zhang, **Hao Chen**, **ISPRS Journal of Photogrammetry and Remote Sensing**
