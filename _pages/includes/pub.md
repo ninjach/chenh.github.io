@@ -4,12 +4,14 @@
 # 💻 Selected Research Papers
 
 #### 🎙 Machine learning
+- [Toward an improved ensemble of multi-source daily precipitation via joint machine learning classification and regression](https://doi.org/10.1016/j.atmosres.2024.107385), **Hao Chen**, Tiejun Wang, Carsten Montzka, Huiran Gao, Ning Guo, Xi Chen, Harry Vereecken, **Atmospheric Research**, 2024
 - [Dynamically weighted ensemble of geoscientific models via automated machine-learning-based classification](https://doi.org/10.5194/gmd-16-5685-2023), **Hao Chen**, Tiejun Wang, Yonggen Zhang, Yun Bai, Xi Chen, **Geoscientific Model Development**, 2023
 - [Evaluating data-driven and hybrid modeling of terrestrial actual evapotranspiration based on an automatic machine learning approach](https://doi.org/10.1016/j.jhydrol.2023.130594), Ning Guo(#), **Hao Chen(#)**, Qiong Han, Tiejun Wang, **Journal of Hydrology**, 2024
 
 #### 🎙 Ecohydrology
 - [Long-term groundwater storage variations estimated in the Songhua River Basin by using GRACE products, land surface models, and in-situ observations](https://doi.org/10.1016/j.scitotenv.2018.08.352), **Hao Chen**, Wanchang Zhang, Ning Nie, Yuedong Guo, **Science of The Total Environment**, 2019
 - [Remote detection of human-induced evapotranspiration in a regional system experiencing increased anthropogenic demands and extreme climatic variability](https://doi.org/10.1080/01431161.2018.1523590), **Hao Chen**, Wanchang Zhang, Masoud Jafari Shalamzari, **International Journal of Remote Sensing**, 2019
+- [Modeling hydrological consequences of 21st-Century climate and land use/land cover changes in a mid-high latitude watershed](https://doi.org/10.1016/j.gsf.2024.101819), Chuanqi Liu, Chi Xu, Zhijie Zhang, Shengqing Xiong, Wanchang Zhang, Bo Zhang, **Hao Chen**, Yongxin Xu, Shuhang Wang, **Geoscience Frontiers**, 2024
 - [Spatiotemporal green water dynamics and their responses to variations of climatic and underlying surface factors: A case study in the Sanjiang Plain, China](https://doi.org/10.1016/j.ejrh.2022.101303), Chi Xu, Wanchang Zhang, Shuhang Wang, **Hao Chen**, Abdullah Azzam, Bo Zhang, Yongxin Xu, Ning Nie, **Journal of Hydrology: Regional Studies**, 2023
 - [Human-Induced water loss from closed inland Lakes: Hydrological simulations in China’s Daihai lake](https://doi.org/10.1016/j.jhydrol.2022.127552), Shuhang Wang, Chi Xu, Wanchang Zhang, **Hao Chen**, Bo Zhang, **Journal of Hydrology**, 2022
 - [Evaluating global ecosystem water use efficiency response to drought based on multi-model analysis](https://doi.org/10.1016/j.scitotenv.2021.146356), Shanshan Yang, Jiahua Zhang, Jiaqi Han, Jingwen Wang, Sha Zhang, Yun Bai, Dan Cao, Lan Xun, Minxuan Zheng, **Hao Chen**, Chi Xu, Yuejing Rong, **Science of The Total Environment**, 2021
