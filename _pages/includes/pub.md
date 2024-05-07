@@ -22,6 +22,7 @@
 - [Combining sparse observations and reanalysis data for refining spatiotemporal variability in near-surface air temperature lapse rates over China](https://doi.org/10.1002/joc.7226), **Hao Chen**, Huiran Gao, Tiejun Wang, Wanchang Zhang, Xi Chen, Ning Nie, Haoran Liu, **International Journal of Climatology**, 2021
 
 #### 🎙 Land use & Land cover
+- [Soil physicochemical properties explain land use/cover histories in the last sixty years in China](https://authors.elsevier.com/tracking/article/details.do?aid=116908&jid=GEODER&surname=Chen), **Hao Chen**, Mehdi Rahmati, Carsten Montzka, Huiran Gao, Harry Vereecken, **Geoderma**, 2024
 - [Climate Change and Anthropogenic Impacts on Wetland and Agriculture in the Songnen and Sanjiang Plain, Northeast China](https://doi.org/10.3390/rs10030356), **Hao Chen**, Wanchang Zhang, Huiran Gao, Ning Nie, **Remote Sensing**, 2018
 - [A new method for surface water extraction using multi-temporal Landsat 8 images based on maximum entropy model](https://doi.org/10.1080/22797254.2022.2062054), Wangping Li, Wanchang Zhang, Zhihong Li, Yu Wang, **Hao Chen**, Huiran Gao, Zhaoye Zhou, Junming Hao, Chuanhua Li, Xiaodong Wu, **European Journal of Remote Sensing**, 2022
 
